@@ -2,7 +2,7 @@
  
  ## Project Overview
  
-     This project focuses on analyzing Diwali sales data to gain insights that drive strategic decisions and enhance overall business performance. By leveraging data analytics techniques, we aim to uncover patterns and trends in sales data, enabling us to make informed decisions and optimize our sales strategies.
+This project focuses on analyzing Diwali sales data to gain insights that drive strategic decisions and enhance overall business performance. By leveraging data analytics techniques, we aim to uncover patterns and trends in sales data, enabling us to make informed decisions and optimize our sales strategies.
 
 
 ## Project Learnings
