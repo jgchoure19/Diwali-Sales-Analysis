@@ -6,8 +6,8 @@ This project focuses on analyzing Diwali sales data to gain insights that drive 
 
 ## Project Learnings
 
- ### Data Cleaning and Manipulation:
-   Ensured data quality by cleaning and preprocessing the sales data for analysis.
+### Data Cleaning and Manipulation:
+ Ensured data quality by cleaning and preprocessing the sales data for analysis.
     
 ### Exploratory Data Analysis (EDA): 
 Utilized pandas, matplotlib, and seaborn libraries to perform in-depth analysis and visualization of sales data. Explored various factors such as gender, age, state, marital status, occupation, and product category to understand their impact on sales performance.
