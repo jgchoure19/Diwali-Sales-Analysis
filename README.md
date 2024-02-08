@@ -4,19 +4,18 @@
  
 This project focuses on analyzing Diwali sales data to gain insights that drive strategic decisions and enhance overall business performance. By leveraging data analytics techniques, we aim to uncover patterns and trends in sales data, enabling us to make informed decisions and optimize our sales strategies.
 
-
 ## Project Learnings
 
-   ### Data Cleaning and Manipulation:
-    Ensured data quality by cleaning and preprocessing the sales data for analysis.
+ ### Data Cleaning and Manipulation:
+   Ensured data quality by cleaning and preprocessing the sales data for analysis.
     
-   ### Exploratory Data Analysis (EDA): 
-    Utilized pandas, matplotlib, and seaborn libraries to perform in-depth analysis and visualization of sales data. Explored various factors such as gender, age, state, marital status, occupation, and product category to understand their impact on sales performance.
-   
-   ### Customer Segmentation:
+### Exploratory Data Analysis (EDA): 
+Utilized pandas, matplotlib, and seaborn libraries to perform in-depth analysis and visualization of sales data. Explored various factors such as gender, age, state, marital status, occupation, and product category to understand their impact on sales performance.
+  
+### Customer Segmentation:
     Identified potential customers across different demographics to tailor marketing strategies and improve customer experience.
    
-  ### Product Analysis: 
+### Product Analysis: 
     Analyzed sales data to identify top-selling product categories and individual products. This analysis helps in inventory planning and meeting customer demands effectively.
 
 # Future Steps
