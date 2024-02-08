@@ -13,10 +13,10 @@ This project focuses on analyzing Diwali sales data to gain insights that drive 
 Utilized pandas, matplotlib, and seaborn libraries to perform in-depth analysis and visualization of sales data. Explored various factors such as gender, age, state, marital status, occupation, and product category to understand their impact on sales performance.
   
 ### Customer Segmentation:
-    Identified potential customers across different demographics to tailor marketing strategies and improve customer experience.
+Identified potential customers across different demographics to tailor marketing strategies and improve customer experience.
    
 ### Product Analysis: 
-    Analyzed sales data to identify top-selling product categories and individual products. This analysis helps in inventory planning and meeting customer demands effectively.
+Analyzed sales data to identify top-selling product categories and individual products. This analysis helps in inventory planning and meeting customer demands effectively.
 
 # Future Steps
 
